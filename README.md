@@ -1,8 +1,6 @@
 # MCMC
 
-There are two types of files. 
-1 .py
-2 .ipynb
+There are two types of files ".py " ".ipynb " .
 
 
 # Running the .py file
